@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStack", "StacksAndQueues\ArrayStack.csproj", "{C7CD3BDE-153A-4801-8B5C-EB7FF3D01BC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStack", "ArrayStack\ArrayStack.csproj", "{C7CD3BDE-153A-4801-8B5C-EB7FF3D01BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListStack", "ConsoleApp1\LinkedListStack.csproj", "{4B991C1E-1EB8-4027-9A84-D1D2B6EA50F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListStack", "LinkedListStack\LinkedListStack.csproj", "{4B991C1E-1EB8-4027-9A84-D1D2B6EA50F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
